@@ -10,18 +10,28 @@ author_profile: true
 
 ### As Teaching Assistant
 
-- **ECON 220A: Econometrics A** (PhD Core) 
+- **ECON 101: International Trade** (Undergraduate) 
 
-    Fall 2023 [(Evaluations)](https://vedant-vohra.github.io/files/Econ-220A-FA23-Evaluations.pdf), Fall 2024 [(Evaluations)](https://vedant-vohra.github.io/files/Econ-220A-FA24-Evaluations.pdf), Fall 2025 [(Evaluations)](https://vedant-vohra.github.io/files/Econ-220A-FA25-Evaluations.pdf)
+- **ECON 183: Topics in Macroeconomics** (Undergraduate) 
 
-- **GPCO 468: Evaluating Technological Innovations** (M.A. Capstone Course) 
+    Summer II 2024
 
-    Winter 2025 [(Evaluations)](https://vedant-vohra.github.io/files/GPS-Capstone-WI25-Evaluations.pdf)
+- **ECON 110B: Short Run Macroeconomics** (Undergraduate) 
 
-- **ECON 5: Data Analytics for the Social Sciences**  (Undergraduate) 
+    Spring 2024
 
-    Winter 2023, Spring 2023
+- **ECON 110A: Long Run Macroeconomics** (Undergraduate) 
 
-- **ECON 120A: Econometrics A** (Undergraduate) 
+    Winter 2023, Summer II 2023, Winter 2025
 
-    Fall 2022
+- **ECON 3: Principles of Macroeconomics** (Undergraduate) 
+
+    Winter 2024, Spring 2025, Summer I 2025
+
+- **ECON 2: Market Imperfections & Policy** (Undergraduate) 
+
+    Fall 2023, Fall 2024
+  
+- **ECON 1: Principles of Microeconomics** (Undergraduate) 
+
+    Fall 2022, Spring 2023, Fall 2025, Winter 2026
