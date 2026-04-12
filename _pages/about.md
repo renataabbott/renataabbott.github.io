@@ -16,5 +16,5 @@ My research focuses on topics in Macroeconomics and Trade.
 
 My C.V. is [here](https://renataabbott.github.io/files/Abbott_Renata_CV.pdf). 
 
-You can reach me at [vohra@ucsd.edu](mailto:rabbottnavarrete@ucsd.edu).
+You can reach me at [rabbottnavarrete@ucsd.edu](mailto:rabbottnavarrete@ucsd.edu).
 
