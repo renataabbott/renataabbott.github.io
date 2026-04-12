@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
-
-###### &dagger; Indicates First-Authored Research
 
 ## Work in Progress
 
