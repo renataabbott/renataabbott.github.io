@@ -14,7 +14,7 @@ I am a PhD Candidate at the [Department of Economics, University of California S
 
 My research focuses on topics in Macroeconomics and Trade. 
 
-My C.V. is [here](https://vedant-vohra.github.io/files/VedantVohra_CV.pdf). 
+My C.V. is [here](https://vedant-vohra.github.io/files/RenataAbbott_CV.pdf). 
 
-You can reach me at [vohra@ucsd.edu](mailto:vohra@ucsd.edu).
+You can reach me at [vohra@ucsd.edu](mailto:rabbottnavarrete@ucsd.edu).
 
