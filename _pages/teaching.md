@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+### As Instructor of record (Associate Instructor)
+
+- **ECON 3: Principles of Macroeconomics** (Undergraduate) 
 
 ### As Teaching Assistant
 
