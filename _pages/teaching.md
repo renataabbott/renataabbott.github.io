@@ -13,7 +13,9 @@ author_profile: true
 
 ### As Teaching Assistant
 
-- **ECON 101: International Trade** (Undergraduate) 
+- **ECON 101: International Trade** (Undergraduate)
+
+    Spring 2026
 
 - **ECON 183: Topics in Macroeconomics** (Undergraduate) 
 
