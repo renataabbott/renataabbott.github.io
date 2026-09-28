@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-## <center> Welcome! </center>
+## <center> **Renata Abbott** </center>
 
-I am a PhD Candidate at the [Department of Economics, University of California San Diego](http://economics.ucsd.edu/). 
+<center>
+PhD Candidate  
+Department of Economics, UC San Diego
+</center>
 
-My research focuses on topics in Macroeconomics and Trade. 
+I am on the 2026–2027 Economics Job Market.
+
+My primary fields are macroeconomics and trade.
 
 My C.V. is [here](https://renataabbott.github.io/files/Abbott_Renata_CV.pdf). 
 
