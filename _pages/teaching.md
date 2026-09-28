@@ -35,8 +35,8 @@ author_profile: true
 
 - **ECON 2: Market Imperfections & Policy** (Undergraduate) 
 
-    Fall 2023, Fall 2024
+    Fall 2023, Fall 2024, Fall 2026
   
 - **ECON 1: Principles of Microeconomics** (Undergraduate) 
 
-    Fall 2022, Spring 2023, Fall 2025, Winter 2026
+    Fall 2022, Spring 2023, Fall 2025, Winter 2026, Fall 2026
