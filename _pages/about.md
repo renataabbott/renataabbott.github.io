@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: left; margin-bottom: 2em;">
+<div style="text-align: left; margin-top: 45px; margin-bottom: 2.5em;">
   <div style="font-size: 1.65em; font-weight: bold;">Renata Abbott</div>
   <div style="font-size: 1.1em; font-weight: normal; margin-top: 0.4em;">
     PhD Candidate<br>
@@ -16,7 +16,7 @@ redirect_from:
   </div>
 </div>
 
-I am on the 2026–2027 Economics Job Market.
+<p><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
 
 My primary fields are macroeconomics and trade.
 
