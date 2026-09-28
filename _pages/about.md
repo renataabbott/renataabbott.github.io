@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: center;">
-  <h2 style="margin-bottom: 8px;">Renata Abbott</h2>
-  <p style="margin-top: 0;">
+<div style="text-align: left; margin-bottom: 2em;">
+  <div style="font-size: 1.65em; font-weight: bold;">Renata Abbott</div>
+  <div style="font-size: 1.1em; font-weight: normal; margin-top: 0.4em;">
     PhD Candidate<br>
     Department of Economics, UC San Diego
-  </p>
+  </div>
 </div>
 
 I am on the 2026–2027 Economics Job Market.
