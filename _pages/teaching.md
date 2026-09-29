@@ -9,7 +9,13 @@ author_profile: true
 
 ### As Instructor of record (Associate Instructor)
 
-- **ECON 3: Principles of Macroeconomics** (Undergraduate) 
+- **ECON 3: Principles of Macroeconomics** (Undergraduate)
+
+    UC San Diego, Summer 2026
+
+- **Advanced Time Series (EST724-01)** (Master's Program)
+
+    Pontifical Catholic University of Valparaiso, 2020–2021
 
 ### As Teaching Assistant
 
