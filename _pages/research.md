@@ -7,9 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-## Work in Progress
+## Working Papers
 
-**Multiproduct Firms and Production Networks** with Marco Rojas <br /> 
+<span style="
+display: inline-block;
+margin-bottom: 8px;
+padding: 3px 10px;
+border: 2px solid #52a9c7;
+border-radius: 20px;
+color: #52a9c7;
+font-size: 0.78em;
+font-weight: 700;
+letter-spacing: 0.05em;
+line-height: 1.2;
+">
+JOB MARKET PAPER
+</span>
+<br />
+
+**Multiproduct Firms and Production Networks** with Marco Rojas <br />
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mpfg').toggleAttribute('open')">Abstract</a>]</small> <br /> 
 <details id="abstract-mpfg">
 <summary style="display: none;"></summary>
@@ -17,6 +33,8 @@ author_profile: true
 Do product and customer margins interact in shaping firm size? Using the universe of firm-to-firm transactions in Chile, we show that they are interconnected. The largest growth episodes combine new buyers with new products, and within suppliers a 10\% increase in buyers is associated with a 5.6\% increase in product scope, much of it among products sold to incumbent buyers. We develop a model of multiproduct firms embedded in a production network in which the two margins are jointly determined through two channels: amortization, as a firm-level product-adoption cost is spread over more buyer relationships, and matching, as a broader buyer base gives each product more opportunities to find a profitable buyer. The model allows us to separate the two channels and assess their relative importance. Using only firm-level moments, amortization can explain up to about 40\% of the co-movement, while adding within-link moments shifts most of the explanation toward matching. The model reproduces the buyer--product relationship and implies spillovers across margins. Frictions affecting buyer acquisition also shape firms' product scope, and those affecting product adoption also shape their buyer networks. For the firm-size distribution, the two margins are not symmetric: the buyer margin alone reproduces about 88\% of the dispersion in firm sales, compared with 66\% for the product margin, with product scope amplifying differences generated through the buyer network.
 </p> 
 </details>
+
+## Work in Progress
 
 **Trade Credit, Liquidity, and Network Contagion: Evidence from Transaction-Level Data** with Patricio Toro and Levent Altinoglu <br /> 
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-tc').toggleAttribute('open')">Abstract</a>] </small> <br /> 
