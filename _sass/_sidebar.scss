@@ -73,8 +73,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -82,17 +80,23 @@
     height: auto;
   }
 
-img {
-  width: 240px;
-  height: 240px;
-  object-fit: cover;
-  border-radius: 15px;
+  img {
+    /* Responsive on phones */
+    width: 22vw;
+    height: 22vw;
+    max-width: 240px;
+    max-height: 240px;
+    object-fit: cover;
+    border-radius: 15px;
 
-  @include breakpoint($large) {
-    padding: 5px;
-    border: 1px solid $border-color;
+    /* Desktop */
+    @include breakpoint($large) {
+      width: 240px;
+      height: 240px;
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
-}
 }
 
 .author__content {
