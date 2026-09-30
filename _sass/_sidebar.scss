@@ -72,29 +72,30 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 90px;
+  height: 90px;
+
+  img {
+    display: block;
+    width: 90px !important;
+    height: 90px !important;
+    max-width: none;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 15px;
+  }
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
-  }
+    width: 240px;
+    height: 240px;
 
-  img {
-    /* Responsive on phones */
-    width: 22vw;
-    height: 22vw;
-    max-width: 240px;
-    max-height: 240px;
-    object-fit: cover;
-    border-radius: 15px;
-
-    /* Desktop */
-    @include breakpoint($large) {
-      width: 240px;
-      height: 240px;
+    img {
+      width: 240px !important;
+      height: 240px !important;
       padding: 5px;
       border: 1px solid $border-color;
+      object-fit: cover;
     }
   }
 }
