@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -20,7 +20,13 @@ redirect_from:
 
 My primary fields are macroeconomics and trade.
 
-My C.V. is [here](https://renataabbott.github.io/files/Abbott_Renata_CV.pdf). 
+My C.V. is [here]({{ '/files/Abbott_Renata_CV.pdf' | relative_url }}).
 
 You can reach me at [rabbottnavarrete@ucsd.edu](mailto:rabbottnavarrete@ucsd.edu).
 
+## Job Market Paper
+
+**[Multiproduct Firm Growth and Production Networks]({{ '/files/Abbott_Rojas_240826.pdf' | relative_url }})**  
+with Marco Rojas
+
+Using the universe of firm-to-firm transactions in Chile, we study how product expansion and buyer acquisition interact to shape supplier growth and the firm-size distribution.
