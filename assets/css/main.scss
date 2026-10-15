@@ -39,3 +39,99 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Match author-profile pages to the homepage's photo and column layout. */
+.page:has(.home-intro) .page__title:empty {
+  display: none;
+}
+
+#main:has(> .sidebar) {
+  display: grid;
+  grid-template-columns: minmax(220px, 360px) minmax(0, 1fr);
+  gap: 3.5rem;
+  align-items: start;
+  max-width: calc(1100px + 2em);
+  margin-top: 3.5rem;
+}
+
+#main:has(> .sidebar)::after {
+  display: none;
+}
+
+#main:has(> .sidebar) > .sidebar,
+#main:has(> .sidebar) > .archive,
+#main:has(> .sidebar) > .page {
+  float: none;
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+#main:has(> .sidebar) > .sidebar {
+  position: static;
+  transform: none;
+}
+
+#main:has(> .sidebar) .author__avatar {
+  display: block;
+  width: 100%;
+  max-width: 360px;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 1rem;
+}
+
+#main:has(> .sidebar) .author__avatar img {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center;
+  padding: 0;
+  border: 0;
+  border-radius: 1rem;
+}
+
+#main:has(> .sidebar) .author__content {
+  display: block;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+#main:has(> .sidebar) .author__urls-wrapper {
+  display: block;
+}
+
+#main:has(> .sidebar) .author__urls-wrapper button {
+  display: none;
+}
+
+#main:has(> .sidebar) .author__urls {
+  display: block;
+  position: static;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  z-index: auto;
+}
+
+#main:has(> .sidebar) .author__urls::before,
+#main:has(> .sidebar) .author__urls::after {
+  display: none;
+}
+
+#main:has(> .sidebar) .page__title {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  #main:has(> .sidebar) {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    max-width: calc(34rem + 2em);
+  }
+}
