@@ -64,7 +64,7 @@ redirect_from:
 
     <p class="jmp__label">Job Market Paper</p>
     <div class="jmp">
-      <p class="jmp__title"><a href="{{ '/files/Abbott_Rojas_240826.pdf' | relative_url }}">Multiproduct Firm Growth and Production Networks</a></p>
+      <p class="jmp__title"><a href="{{ '/files/Abbott_JMP.pdf' | relative_url }}">Multiproduct Firm Growth and Production Networks</a></p>
       <p class="jmp__coauthors">with Marco Rojas</p>
       <details class="jmp__abstract" id="abstract-mpfg">
         <summary>Abstract</summary>
